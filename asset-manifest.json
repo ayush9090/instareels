@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/instareels/static/css/main.260e9f1d.chunk.css",
+    "main.js": "/instareels/static/js/main.4d2943c6.chunk.js",
+    "main.js.map": "/instareels/static/js/main.4d2943c6.chunk.js.map",
+    "runtime-main.js": "/instareels/static/js/runtime-main.0b1ee358.js",
+    "runtime-main.js.map": "/instareels/static/js/runtime-main.0b1ee358.js.map",
+    "static/js/2.f698295a.chunk.js": "/instareels/static/js/2.f698295a.chunk.js",
+    "static/js/2.f698295a.chunk.js.map": "/instareels/static/js/2.f698295a.chunk.js.map",
+    "static/js/3.bcdddd67.chunk.js": "/instareels/static/js/3.bcdddd67.chunk.js",
+    "static/js/3.bcdddd67.chunk.js.map": "/instareels/static/js/3.bcdddd67.chunk.js.map",
+    "index.html": "/instareels/index.html",
+    "static/css/main.260e9f1d.chunk.css.map": "/instareels/static/css/main.260e9f1d.chunk.css.map",
+    "static/js/2.f698295a.chunk.js.LICENSE.txt": "/instareels/static/js/2.f698295a.chunk.js.LICENSE.txt",
+    "static/media/TM-Instagram.99d634ba.png": "/instareels/static/media/TM-Instagram.99d634ba.png",
+    "static/media/logo.6ce24c58.svg": "/instareels/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b1ee358.js",
+    "static/js/2.f698295a.chunk.js",
+    "static/css/main.260e9f1d.chunk.css",
+    "static/js/main.4d2943c6.chunk.js"
+  ]
+}
